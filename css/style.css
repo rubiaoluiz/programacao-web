@@ -153,4 +153,35 @@ footer h2, a {
 .footer-bottom {
     text-align: start;
     margin-top: 20px;
+<<<<<<< HEAD
+=======
+}
+
+.imgA{
+    display: flex;
+    justify-content: center;
+    margin-top: 5.32rem;
+    padding: 6rem 1rem 6rem 1rem;
+    color: rgba(132, 146, 187, 0);
+    background-image: url(https://ravel.com.br/blog/wp-content/uploads/2023/07/banner-meio-blog-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    font-size: xxx-large;
+}
+
+.celulares{
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(8, 1fr)
+}
+
+.celular img{
+    width: 8.5rem;
+    margin: 0.5rem 0rem 0.5rem 1rem;
+    border-radius: 0.6rem;
+    border: solid black 1px;
+    box-shadow:10px 5px 5px rgba(0, 0, 0, 0.326);
+>>>>>>> 401a517 (commit 2)
 }
