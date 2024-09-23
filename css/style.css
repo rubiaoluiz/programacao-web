@@ -70,6 +70,20 @@ nav{
     font-size: xxx-large;
 }
 
+.games {
+    display: flex;
+    justify-content: center;
+    margin-top: 5.32rem;
+    padding: 6rem 1rem 6rem 1rem;
+    color: rgba(132, 146, 187, 0);
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/t2/13381423-joystick-de-console-de-jogos-sinais-de-botoes-de-neon-brilhantes-placa-brilhante-bandeira-leve-facil-de-editar-ilustracaoial-vetor.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    font-size: xxx-large;
+}
+
 .filmes{
     display: grid;
     flex-wrap: wrap;
