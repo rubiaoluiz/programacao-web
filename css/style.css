@@ -167,8 +167,6 @@ footer h2, a {
 .footer-bottom {
     text-align: start;
     margin-top: 20px;
-<<<<<<< HEAD
-=======
 }
 
 .imgA{
@@ -197,5 +195,4 @@ footer h2, a {
     border-radius: 0.6rem;
     border: solid black 1px;
     box-shadow:10px 5px 5px rgba(0, 0, 0, 0.326);
->>>>>>> 401a517 (commit 2)
 }
